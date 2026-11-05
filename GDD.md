@@ -21,7 +21,7 @@ Początkowe planowane jest zrobienie zawartości tak, aby gracz mógł spędzić
 # 2. Postacie – wprowadza avatarów i NPC, którzy będą obecni w grze
 
 
-Gra wprowadza główną postać w pierwszej osobie oraz postacie NPC jako klienci
+Gra wprowadza główną postać w pierwszej osobie oraz postacie NPC jako klientów oraz przechodniów
 
 
 # 3. Projekt poziomu/środowiska – projekt świata w jakim będzie realizowana gra.
