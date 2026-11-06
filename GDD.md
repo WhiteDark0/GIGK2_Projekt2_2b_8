@@ -35,6 +35,8 @@ Akcja gry będzie się odbywać w dwóch miejscach:
 # Fabuła
 
 
+Gracz wciela się w rolę młodego biznesmena, który odziedziczył wysypisko śmieci w niewielkim mieście. To biznes rozwijany przez jego rodzinę od pokoleń. Jako osoba bez większego doświadczenia w tej branży, musi stawić czoła trudnemu zadaniu, ale także wyjątkowej szansie. Z jednej strony może doprowadzić wieloletni interes do bankructwa, z drugiej – stać się szanowanym milionerem znanym w całym regionie.
+
 
 # Rozgrywka - ogólne założenia
 
