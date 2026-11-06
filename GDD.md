@@ -55,7 +55,8 @@ Oprócz finansów istotną mechaniką, która decyduje o tym, czy gracz może ro
 Gracz steruje swoją postacią szefa bezpośrednio — porusza się w czterech kierunkach za pomocą przycisków WASD (lub lewą gałką kontrolera), a kamerą pierwszoosobową manipuluje za pomocą myszki (lub prawą gałką kontrolera).
 Opcjonalnie może być dostępna akcja skoku (Spacja/A) na wypadek, gdyby graczowi udało się zaklinować pomiędzy obiektami.
 Dodatkowym modyfikatorem ruchu będzie akcja sprintu (Shift - przytrzymanie/Naciśnięcie lewej gałki - toggle wł/wył).
-TODO: Czy sprint powinien być ograniczony paskiem staminy?
+
+⚠️ TODO: Czy sprint powinien być ograniczony paskiem staminy?
 
 
 Sterowanie pojazdami odbywa się identycznie poprzez klawisze WASD:
@@ -84,7 +85,7 @@ Menu wewnątrzgrowe — panele zarządzania, strony internetowe symulowałoby wi
 - B — powrót do menu poprzedniego / wyjscie z menu
 - ruch prawej gałki — przewijanie ewentualnych list przewijalnych
 
-TODO: Być może scalić oba schematy ruchu w jedną tabelę
+⚠️ TODO: Być może scalić oba schematy ruchu w jedną tabelę
 
 
 # Sposób dystrybucji – w jakich kanałach prowadzona będzie sprzedaż/ promocja
