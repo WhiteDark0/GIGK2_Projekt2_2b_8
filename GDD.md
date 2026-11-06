@@ -53,14 +53,6 @@ Oprócz finansów istotną mechaniką, która decyduje o tym, czy gracz może ro
 
 # Model finansowania – w jakim wymiarze rozwiązanie będzie finansowane.
 
-
-Powód:
-
-- Wynajęcie osoby do stworzenia obiektów
-
-- Licencja na Unity na wypadek przekroczenie progu pobrań
-
-
 Źródła pozyskania środków:
 
 - Sponsorzy
