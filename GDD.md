@@ -35,7 +35,7 @@ Akcja gry będzie się odbywać w dwóch miejscach:
 # 4. Rozgrywka – w jaki sposób realizowana będzie rozgrywka
 
 
-Gracz będzie miał możliwość zarządzania swoją firmą jak również przechadzanie się po różnych miastach mając na celu rozwijanie swojego biznesu. Złomowisko będzie zawierało szeroko możliwość pod względem budowy maszyn, poszerzenia terenu, zarządzaniem pracownikami i własnoręczne oddzielanie przedmiotów do odpowiednich materiałów. W mieście gracz będzie realizował zlecenia dostarczenia materiałów jak i przedmiotów, zbierał osobiście śmieci z różnych miejsc.
+Gracz będzie miał możliwość zarządzania swoją firmą jak również przechadzania się po różnych miastach mając na celu rozwijanie swojego biznesu. Złomowisko będzie zawierało szerokie możliwości pod względem budowy maszyn, poszerzenia terenu, zarządzaniem pracownikami i własnoręcznego oddzielania przedmiotów do odpowiednich materiałów. W mieście gracz będzie realizował zlecenia dostarczenia materiałów jak i przedmiotów, zbierał osobiście śmieci z różnych miejsc.
 Oprócz finansów istotną mechaniką, która decyduje o tym, czy gracz może rozwijać swoją firmę w wybranym kierunku będzie system reputacji — od bardzo złej do bardzo dobrej. Zmienia się ona w zależności od percepcji staranności wykonywania usług w oczach mieszkańców jak, wpływu świadczonych usług na miasto (z perspektywy urzędników) oraz zasadności praktyk biznesowej.
 
 
