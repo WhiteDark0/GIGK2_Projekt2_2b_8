@@ -58,8 +58,11 @@ W ogólnym założeniu dane wskaźniki zmieniają się, gdy:
 Opcjonalnie można wprowadzić system pożyczek — systematycznie odblokowywane przez proste obliczanie zdolności kredytowej (wartość firmy + poprzednie spłacone pożyczki). Każda pożyczka wprowadza comiesięczne opłaty celem jej spłacenia.
 
 ⚠️ TODO: Czy rozwój firmy powinien wpływać na opłaty regularne? Np. Czy nowe obiekty zwiększają rachunek za elektryczność? Wtedy rachunek za prąd powinien być jawnie osobny od innych opłat za budynek.
+
 ⚠️ TODO: Nazwa waluty — być może $ bądź kredyty
+
 ⚠️ TODO: Ogólna jej wartość — jaka jest minimalna/średnia pensja, ile kosztuje budynek, czynsz oraz przedmioty czy pojazdy?
+
 ⚠️ TODO: Jaki jest termin płatności? Czy jest to miesiąc jak zaproponowano dla ew. pożyczek czy też dzień lub tydzień?
 
 ## Mechaniki dot. rozgrywki (wyruszanie w/powrót z trasy, przemieszczanie się, itp.)
