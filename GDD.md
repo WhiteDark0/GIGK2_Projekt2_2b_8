@@ -84,6 +84,11 @@ Reprezentowana liczbowo za pomocą zakresu od -100 do +100 z następującymi naz
 ⚠️ TODO: Doprecyzować zakresy pod względem <> oraz () — łącznie/rozłącznie
 ⚠️ TODO: Czy zakres jest zbalansowany? Czy zakresy powinny być równe długością? 200 / 5 = 40. Obecnie "bardzo" ma długość 25, a pozostałe poziomy - 50.
 
+Reputacja powinna być aktualizowana pod koniec każdego dnia — na podstawie ilości wykonanych zleceń (pozytywnie), tych wykonanych w czasie (pozytywnie), ze spóźnieniem (kara? mniej pozytywne?) oraz niewykonanych w ogóle mimo takiego obowiązku (negatywnie). Może być także aktualizowana okresowo — na przykład codziennie w czasie trwania wykupionej kampanii reklamowej.
+
+⚠️ TODO: Czy kampania reklamowa powinna być zawsze neutralna/pozytywna dla reputacji jak to ma zazwyczaj miejsce w grach z taką mechaniką? Czy może powinnna być to szansa na dany efekt z wybranego zakresu? Firmie z gorszą reputacją trudniej ją poprawić reklamami, a takiej z neutralną reputacją wręcz bardzo łatwo.
+⚠️ TODO: Czy kampania reklamowa może być negatywna (losowo) mimo dobrych przesłanek? Może to wprowadzić poziom trudności i losowości, który nie gwarantuje, że rzucenie pieniędzy na kampanię zawsze polepszy reputację.
+
 
 ## Mechaniki dot. rozgrywki (wyruszanie w/powrót z trasy, przemieszczanie się, itp.)
 
