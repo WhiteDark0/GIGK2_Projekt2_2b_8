@@ -24,7 +24,7 @@ Początkowe planowane jest zrobienie zawartości tak, aby gracz mógł spędzić
 Gra wprowadza główną postać kontrolowaną przez gracza w widoku pierwszoosobowym oraz postacie NPC jako klientów oraz przechodniów
 
 
-# 3. Projekt poziomu/środowiska – projekt świata w jakim będzie realizowana gra.
+# 3. Projekt świata
 
 
 Akcja gry będzie się odbywać w dwóch miejscach:
@@ -32,23 +32,11 @@ Akcja gry będzie się odbywać w dwóch miejscach:
 - Miasto, gdzie gracz będzie mieć możliwość przechadzania się po nim, zbierać śmieci, realizować zlecenia i inne
 
 
-# 4. Rozgrywka – w jaki sposób realizowana będzie rozgrywka
+# 4. Rozgrywka - ogólne założenia
 
 
 Gracz będzie miał możliwość zarządzania swoją firmą jak również przechadzania się po różnych miastach mając na celu rozwijanie swojego biznesu. Złomowisko będzie zawierało szerokie możliwości pod względem budowy maszyn, poszerzenia terenu, zarządzaniem pracownikami i własnoręcznego oddzielania przedmiotów do odpowiednich materiałów. W mieście gracz będzie realizował zlecenia dostarczenia materiałów jak i przedmiotów, zbierał osobiście śmieci z różnych miejsc.
 Oprócz finansów istotną mechaniką, która decyduje o tym, czy gracz może rozwijać swoją firmę w wybranym kierunku będzie system reputacji — od bardzo złej do bardzo dobrej. Zmienia się ona w zależności od percepcji staranności wykonywania usług w oczach mieszkańców jak, wpływu świadczonych usług na miasto (z perspektywy urzędników) oraz zasadności praktyk biznesowej.
-
-
-# 5. Sztuka – jakie elementy graficzne będą wykorzystane, w jakim stylu 
-
-
-
-# 6. Dźwięk i muzyka – opis strony dźwiękowej gry
-
-
-
-# 7. Interfejs użytkownika, sterowanie grą – sposób prowadzenia rozgrywki
-
 
 
 # 8. Sposób dystrybucji – w jakich kanałach prowadzona będzie sprzedaż/ promocja
@@ -80,13 +68,6 @@ Powód:
 - YouTube
 
 - Dofinansowania
-
-
-
-
-# Szkice:
-
-
 
 
 
