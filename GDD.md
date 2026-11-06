@@ -92,6 +92,11 @@ Reputacja powinna być aktualizowana pod koniec każdego dnia — na podstawie i
 
 ## Mechaniki dot. rozgrywki (wyruszanie w/powrót z trasy, przemieszczanie się, itp.)
 
+### Zlecenia od klientów
+Klienci mogą zlecić graczowi zabranie od nich większej zawartości albo zakupić od firmy poszczególne przedmioty lub materiały. Po zaakceptowaniu danego zlecenia gracz będzie musiał dostarczyć zamówienie osobiście lub zlecić go komuś innemu.
+
+### Zbieranie śmieci
+Gracz będzie zbierał śmieci na różne sposoby (kosze na śmieci, zaśmiecone parki i ulice, zlecenia od mieszkańców, itp.) i je ładował do odpowiednich pojazdów. Dodatkowo gracz będzie mieć możliwość wybrania poszczególnych przedmiotów lub materiałów do wykorzystania na własny użytek (ulepszenie maszyn lub ewentualne dekorowanie swojego biura)
 
 # Sterowanie
 
