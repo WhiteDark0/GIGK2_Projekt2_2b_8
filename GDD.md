@@ -28,7 +28,7 @@ Gra wprowadza główną postać kontrolowaną przez gracza w widoku pierwszoosob
 
 
 Akcja gry będzie się odbywać w dwóch miejscach:
-- Wysypisko śmieci, gdzie gracz będzie mógł nim zarządzać (budowanie/umieszczanie maszyn, zazrządzanie pracownikami, itp)
+- Wysypisko śmieci, gdzie gracz będzie mógł nim zarządzać (budowanie/umieszczanie maszyn, zarządzanie pracownikami, itp)
 - Miasto, gdzie gracz będzie mieć możliwość przechadzania się po nim, zbierać śmieci, realizować zlecenia i inne
 
 
