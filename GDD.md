@@ -52,7 +52,8 @@ Oprócz finansów istotną mechaniką, która decyduje o tym, czy gracz może ro
 Podstawowymi wyznacznikami liczbowymi, czy gracz będzie mógł wykonać dana akcję w kontekście zarządzania przedsiębiorstwem są pieniądze (w wirtualnej walucie), poziom doświadczenia, punkty doświadczenia oraz reputacja.
 
 W ogólnym założeniu dane wskaźniki zmieniają się, gdy:
-- Pieniądze — Natychmiastowo ich ubywa, gdy gracz dokonuje zakupu przedmiotów, zatrudnia pracowników, itp. Otrzymuje się je natychmiastowo po skończeniu zlecenia czy sprzedaży przedmiotu. Istnieją też opłaty powtarzające się — pensje pracowników (gdy gracz zatrudni kogoś oprócz siebie), opłata za budynek siedziby firmy (raczej już zsumowane czynsz, podatek od nieruchomości oraz opłaty za media). Nie ma możliwości zejścia poniżej 0 — zakupy są niemożliwe, lecz opłaty okresowe mogą doprowadzić do takiej sytuacji, lecz wtedy:
+#### Pieniądze
+Natychmiastowo ich ubywa, gdy gracz dokonuje zakupu przedmiotów, zatrudnia pracowników, itp. Otrzymuje się je natychmiastowo po skończeniu zlecenia czy sprzedaży przedmiotu. Istnieją też opłaty powtarzające się — pensje pracowników (gdy gracz zatrudni kogoś oprócz siebie), opłata za budynek siedziby firmy (raczej już zsumowane czynsz, podatek od nieruchomości oraz opłaty za media). Nie ma możliwości zejścia poniżej 0 — zakupy są niemożliwe, lecz opłaty okresowe mogą doprowadzić do takiej sytuacji, lecz wtedy:
 - Jeżeli to pierwsze zejście na minus funduszy — firma pożycza "osobiste środki szefa", np. 5000 waluty
 - Jeżeli to kolejny raz albo fundusze nie wystarczyły — ekran przegrania gry; gracz wczytuje poprzedni zapis lub rozpoczyna nową grę
 Opcjonalnie można wprowadzić system pożyczek — systematycznie odblokowywane przez proste obliczanie zdolności kredytowej (wartość firmy + poprzednie spłacone pożyczki). Każda pożyczka wprowadza comiesięczne opłaty celem jej spłacenia.
