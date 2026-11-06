@@ -32,11 +32,25 @@ Akcja gry będzie się odbywać w dwóch miejscach:
 - Miasto, gdzie gracz będzie mieć możliwość przechadzania się po nim, zbierać śmieci, realizować zlecenia i inne
 
 
+# Fabuła
+
+
+
 # Rozgrywka - ogólne założenia
 
 
 Gracz będzie miał możliwość zarządzania swoją firmą jak również przechadzania się po różnych miastach mając na celu rozwijanie swojego biznesu. Złomowisko będzie zawierało szerokie możliwości pod względem budowy maszyn, poszerzenia terenu, zarządzaniem pracownikami i własnoręcznego oddzielania przedmiotów do odpowiednich materiałów. W mieście gracz będzie realizował zlecenia dostarczenia materiałów jak i przedmiotów, zbierał osobiście śmieci z różnych miejsc.
 Oprócz finansów istotną mechaniką, która decyduje o tym, czy gracz może rozwijać swoją firmę w wybranym kierunku będzie system reputacji — od bardzo złej do bardzo dobrej. Zmienia się ona w zależności od percepcji staranności wykonywania usług w oczach mieszkańców jak, wpływu świadczonych usług na miasto (z perspektywy urzędników) oraz zasadności praktyk biznesowych.
+
+
+# Mechaniki - ogólny opis
+
+## Mechaniki dot. zarządzenia (finanse, reputacja, itp.)
+
+## Mechaniki dot. rozgrywki (wyruszanie w/powrót z trasy, przemieszczanie się, itp.)
+
+
+# Sterowanie
 
 
 # Sposób dystrybucji – w jakich kanałach prowadzona będzie sprzedaż/ promocja
