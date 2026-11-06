@@ -73,6 +73,16 @@ Nie można go stracić. Każdy kolejny poziom doświadczenia (LVL) zdobywa się 
 Zdobywane poprzez osiąganie kolejnych LVL postaci — np. LVL1 -> LVL2 daje 3 punkty rozwoju (SP). Wymagane zawsze do ulepszeń — reprezentują one pewnien poziom przestudiowanej wiedzy przez właściciela, np. aby zakupić maszynę X musi on mieć ulepszenie Y w drzewku rozwoju za 2 punkty rozwoju.
 
 #### Reputacja
+Reprezentowana liczbowo za pomocą zakresu od -100 do +100 z następującymi nazwami opisowymi:
+- -100 — -75 — bardzo zła
+- -75 — -25 — zła
+- -25 — +25 — neutralna
+- +25 — +75 - dobra
+- +75 — +100 - bardzo dobra
+
+⚠️ TODO: Oś liczbowa z zakresami
+⚠️ TODO: Doprecyzować zakresy pod względem <> oraz () — łącznie/rozłącznie
+⚠️ TODO: Czy zakres jest zbalansowany? Czy zakresy powinny być równe długością? 200 / 5 = 40. Obecnie "bardzo" ma długość 25, a pozostałe poziomy - 50.
 
 
 ## Mechaniki dot. rozgrywki (wyruszanie w/powrót z trasy, przemieszczanie się, itp.)
