@@ -49,7 +49,7 @@ Oprócz finansów istotną mechaniką, która decyduje o tym, czy gracz może ro
 
 ## Mechaniki dot. zarządzania (finanse, reputacja, itp.)
 
-Podstawowymi wyznacznikami liczbowymi, czy gracz będzie mógł wykonać dana akcję w kontekście zarządzania przedsiębiorstwem są pieniądze (w wirtualnej walucie), poziom doświadczenia, punkty doświadczenia oraz reputacja.
+Podstawowymi wyznacznikami liczbowymi, czy gracz będzie mógł wykonać dana akcję w kontekście zarządzania przedsiębiorstwem są pieniądze (w wirtualnej walucie), poziom doświadczenia, punkty rozwoju oraz reputacja.
 
 W ogólnym założeniu dane wskaźniki zmieniają się, gdy:
 #### Pieniądze
@@ -65,6 +65,15 @@ Opcjonalnie można wprowadzić system pożyczek — systematycznie odblokowywane
 ⚠️ TODO: Ogólna jej wartość — jaka jest minimalna/średnia pensja, ile kosztuje budynek, czynsz oraz przedmioty czy pojazdy?
 
 ⚠️ TODO: Jaki jest termin płatności? Czy jest to miesiąc jak zaproponowano dla ew. pożyczek czy też dzień lub tydzień?
+
+#### Poziom doświadczenia
+Nie można go stracić. Każdy kolejny poziom doświadczenia (LVL) zdobywa się po zdobyciu określonej liczby punktów doświadczenia (wyższa dla każdego kolejnego poziomu). Niektóre ulepszenia wymagają konkretnego LVL.
+
+#### Punkty rozwoju
+Zdobywane poprzez osiąganie kolejnych LVL postaci — np. LVL1 -> LVL2 daje 3 punkty rozwoju (SP). Wymagane zawsze do ulepszeń — reprezentują one pewnien poziom przestudiowanej wiedzy przez właściciela, np. aby zakupić maszynę X musi on mieć ulepszenie Y w drzewku rozwoju za 2 punkty rozwoju.
+
+#### Reputacja
+
 
 ## Mechaniki dot. rozgrywki (wyruszanie w/powrót z trasy, przemieszczanie się, itp.)
 
