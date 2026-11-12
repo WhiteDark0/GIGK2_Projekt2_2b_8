@@ -97,7 +97,22 @@ Reputacja powinna być aktualizowana pod koniec każdego dnia — na podstawie i
 Klienci mogą zlecić graczowi zabranie od nich większej zawartości albo zakupić od firmy poszczególne przedmioty lub materiały. Po zaakceptowaniu danego zlecenia gracz będzie musiał dostarczyć zamówienie osobiście lub zlecić go komuś innemu.
 
 ### Zbieranie śmieci
-Gracz będzie zbierał śmieci na różne sposoby (kosze na śmieci, zaśmiecone parki i ulice, zlecenia od mieszkańców, itp.) i je ładował do odpowiednich pojazdów. Dodatkowo gracz będzie mieć możliwość wybrania poszczególnych przedmiotów lub materiałów do wykorzystania na własny użytek (ulepszenie maszyn lub ewentualne dekorowanie swojego biura)
+Gracz będzie zbierał śmieci na różne sposoby (kosze na śmieci, zaśmiecone parki i ulice, zlecenia od mieszkańców, itp.) i je ładował do pojazdów. Dodatkowo gracz będzie mieć możliwość wybrania poszczególnych przedmiotów lub materiałów do wykorzystania na własny użytek (ulepszenie maszyn lub ewentualne dekorowanie swojego biura)
+
+### Specjalne wydarzenia
+Co jakiś czas będą odbywać się specjalne wydarzenia, które mogą pomóc lub przeszkadzać w trakcie rozgrywki np. nagły spadek ceny danego materiału, wszelakie święta, nadmierne opady deszczu, itp.
+
+### Specjalne budynki
+W mieście będą znajdować się różnorodne budynki oferujące aktywności dla gracza, który może wykorzystać do rozwijania interesu takie jak bank, lombard, sklep itp.
+
+### Przemieszczanie się pomiędzy lokacjami
+Gracz wykorzystując będzie się przemieszczał automatycznie pomiędzy złomowiskiem oraz miastem. Gracz będzie musiał brać pod uwagę czas jaki musi przeznaczyć, aby dotrzeć na miejsce.
+
+### Poruszanie się po mieście
+Gracz będzie mieć możliwość poruszania się po mieście za pomocą wybranego przez siebie pojazdu lub bez
+
+### Obsługa maszyn
+Gracz wykorzystując szeroki wybór maszyn będzie mógł przetwarzać zgromadzone materiały do utworzenia z nich poszczególnych dla danego materiału przedmiotu. Dodatkowo gracz będzie musiał obsługiwać maszyny zgodnie z instrukcją, w przeciwnym wypadku może to doprowadzić do ewentualnych awarii oraz utraty pieniędzy w celu naprawy.
 
 # Sterowanie
 
