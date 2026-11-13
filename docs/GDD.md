@@ -178,6 +178,10 @@ Menu wewnątrzgrowe — panele zarządzania, strony internetowe symulowałoby wi
 
 - Dofinansowania
 
+# Koncept graficzny
+
+![](Koncept_1.png)
+![](Koncept_2.png)
 
 
 # Wykonane przez:
