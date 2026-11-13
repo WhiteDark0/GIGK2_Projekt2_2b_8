@@ -111,7 +111,7 @@ Gracz wykorzystując szeroki wybór maszyn będzie mógł przetwarzać zgromadzo
 
 Gracz **steruje swoją postacią** szefa bezpośrednio — porusza się w czterech kierunkach za pomocą przycisków WASD (lub lewą gałką kontrolera), a kamerą pierwszoosobową manipuluje za pomocą myszki (lub prawą gałką kontrolera).
 Opcjonalnie może być dostępna akcja skoku (Spacja/A) na wypadek, gdyby graczowi udało się zaklinować pomiędzy obiektami.
-Dodatkowym modyfikatorem ruchu będzie akcja sprintu (Shift - przytrzymanie/Naciśnięcie lewej gałki - toggle wł/wył).
+Dodatkowym modyfikatorem ruchu będzie akcja sprintu (Shift - przytrzymanie/Naciśnięcie lewej gałki - toggle wł/wył) — lecz ten będzie ograniczony paskiem staminy, która się regeneruje w czasie, gdy gracz nie sprintuje.
 
 | Akcja | K+M | Kontroler |
 | ----- | --- | --------- |
@@ -121,8 +121,6 @@ Dodatkowym modyfikatorem ruchu będzie akcja sprintu (Shift - przytrzymanie/Naci
 | Ruch do tyłu | S | ruch lewej gałki do tyłu |
 | Sprint | Shift (przytrzymanie) | naciśnięcie lewej gałki (toggle wł/wył) |
 | Skok | Spacja | A |
-
-⚠️ TODO: Czy sprint powinien być ograniczony paskiem staminy?
 
 
 **Sterowanie pojazdami** odbywa się identycznie poprzez klawisze WASD.
