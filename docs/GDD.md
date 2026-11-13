@@ -155,8 +155,6 @@ Menu wewnątrzgrowe — panele zarządzania, strony internetowe symulowałoby wi
 | Powrót do menu poprzedniego / wyjście z menu | prawy przycisk myszy / ESC | B |
 | Przewijanie listy | rolka (scroll) | ruch prawej gałki |
 
-⚠️ TODO: Być może scalić oba schematy ruchu w jedną tabelę
-
 
 # Sposób dystrybucji – w jakich kanałach prowadzona będzie sprzedaż/ promocja
 
