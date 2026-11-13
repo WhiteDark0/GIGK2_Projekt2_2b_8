@@ -13,7 +13,7 @@
 # Wprowadzenie do pomysłu
 
 
-Symulator śmieciarza (n.d.z) jest symulatorem, w którym można wcielić się w postać właściciela wysypiska śmieci. Gracz będzie miał za zadanie zarządzać wspomnianym biznesem, zbierać odpady, sprzedawać wartościowe śmieci dzięki zleceniom od klientów lub sprzedaży hurtowej. Dodatkowo gracz będzie miał możliwość poszerzenia swojego interesu poprzez kupowanie potrzebnych maszyn, zatrudnianie pracowników oraz rozwijanie umiejętności.
+Symulator śmieciarza jest symulatorem, w którym można wcielić się w postać właściciela wysypiska śmieci. Gracz będzie miał za zadanie zarządzać wspomnianym biznesem, zbierać odpady, sprzedawać wartościowe śmieci dzięki zleceniom od klientów lub sprzedaży hurtowej. Dodatkowo gracz będzie miał możliwość poszerzenia swojego interesu poprzez kupowanie potrzebnych maszyn, zatrudnianie pracowników oraz rozwijanie umiejętności.
 Gracz będzie musiał też pilnować zarządzania swoimi pieniędzmi, aby nie doszło w ostateczności do bankructwa.
 Początkowe planowane jest zrobienie zawartości tak, aby gracz mógł spędzić maksymalnie 1 miesiąc (w grze), aby mógł się zapoznać z zawartymi mechanikami.
 
