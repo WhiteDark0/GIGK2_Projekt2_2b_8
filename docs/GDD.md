@@ -82,11 +82,7 @@ Reprezentowana liczbowo za pomocą zakresu od -100 do +100 z następującymi naz
 
 
 Reputacja powinna być aktualizowana pod koniec każdego dnia — na podstawie ilości wykonanych zleceń (pozytywnie), tych wykonanych w czasie (pozytywnie), ze spóźnieniem (kara? mniej pozytywne?) oraz niewykonanych w ogóle mimo takiego obowiązku (negatywnie). Może być także aktualizowana okresowo — na przykład codziennie w czasie trwania wykupionej kampanii reklamowej.
-
-⚠️ TODO: Czy kampania reklamowa powinna być zawsze neutralna/pozytywna dla reputacji jak to ma zazwyczaj miejsce w grach z taką mechaniką? Czy może powinnna być to szansa na dany efekt z wybranego zakresu? Firmie z gorszą reputacją trudniej ją poprawić reklamami, a takiej z neutralną reputacją wręcz bardzo łatwo.
-
-⚠️ TODO: Czy kampania reklamowa może być negatywna (losowo) mimo dobrych przesłanek? Może to wprowadzić poziom trudności i losowości, który nie gwarantuje, że rzucenie pieniędzy na kampanię zawsze polepszy reputację.
-
+Kampanię reklamową można zamówić za określony budżet — większy budżet oznacza większą szansę na powodzenie kampanii (większy zysk punktów reputacji każdego dnia). Istnieje szansa, że kampania będzie miała negatywny wpływ na reputację — efekt negatywny powinien jednak być zawsze jakąś małą wartością, by nie uwięzić gracza w sytuacji, w której nie może poprawić swojej reputacji.
 
 ## Mechaniki dot. rozgrywki (wyruszanie w/powrót z trasy, przemieszczanie się, itp.)
 
