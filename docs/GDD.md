@@ -72,17 +72,14 @@ Zdobywane poprzez osiąganie kolejnych LVL postaci — np. LVL1 -> LVL2 daje 3 p
 
 #### Reputacja
 Reprezentowana liczbowo za pomocą zakresu od -100 do +100 z następującymi nazwami opisowymi:
-- -100 — -75 — bardzo zła
-- -75 — -25 — zła
-- -25 — +25 — neutralna
-- +25 — +75 - dobra
-- +75 — +100 - bardzo dobra
+- ⟨-100; -75⟩ — bardzo zła
+- (-75; -25⟩ — zła
+- (-25; +25) — neutralna
+- ⟨+25; +75) - dobra
+- ⟨+75; +100⟩ - bardzo dobra
 
 ⚠️ TODO: Oś liczbowa z zakresami
 
-⚠️ TODO: Doprecyzować zakresy pod względem <> oraz () — łącznie/rozłącznie
-
-⚠️ TODO: Czy zakres jest zbalansowany? Czy zakresy powinny być równe długością? 200 / 5 = 40. Obecnie "bardzo" ma długość 25, a pozostałe poziomy - 50.
 
 Reputacja powinna być aktualizowana pod koniec każdego dnia — na podstawie ilości wykonanych zleceń (pozytywnie), tych wykonanych w czasie (pozytywnie), ze spóźnieniem (kara? mniej pozytywne?) oraz niewykonanych w ogóle mimo takiego obowiązku (negatywnie). Może być także aktualizowana okresowo — na przykład codziennie w czasie trwania wykupionej kampanii reklamowej.
 
