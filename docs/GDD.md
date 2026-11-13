@@ -47,22 +47,31 @@ Oprócz finansów istotną mechaniką, która decyduje o tym, czy gracz może ro
 
 # Mechaniki - ogólny opis
 
+## Mechaniki ogólne
+
+#### Czas
+Podstawową jednostką czasu w grze jest dzień, trwający od 8:00 do 20:00.
+Każda minuta trwa 2 sekundy czasu rzeczywistego, co daje graczowi 24 minuty na wykonanie wszelkich działań.
+Jeden miesiąc trwa 30 dni, co w teorii oznacza 12 godzin w czasie rzeczywistym. W praktyce jednak, w niektóre dni zleceń będzie mniej, więc gracz będzie zmuszony je pominąć wcześniej.
+
+#### Koniec dnia i zapis
+Jeśli zegar wybije 20:00, to gra automatycznie się zapisuje i rozpoczyna się kolejny dzień. Gracz może równie dobrze zakończyć dzień, tym samym zapisując grę, przed tą godziną.
+
+
 ## Mechaniki dot. zarządzania (finanse, reputacja, itp.)
 
 Podstawowymi wyznacznikami liczbowymi, czy gracz będzie mógł wykonać dana akcję w kontekście zarządzania przedsiębiorstwem są pieniądze (w wirtualnej walucie), poziom doświadczenia, punkty rozwoju oraz reputacja.
 
 W ogólnym założeniu dane wskaźniki zmieniają się, gdy:
 #### Pieniądze
-Liczone w dolarach ($) — jako liczba całkowita. Natychmiastowo ich ubywa, gdy gracz dokonuje zakupu przedmiotów, zatrudnia pracowników, itp. Otrzymuje się je natychmiastowo po skończeniu zlecenia czy sprzedaży przedmiotu. Istnieją też opłaty powtarzające się — pensje pracowników (gdy gracz zatrudni kogoś oprócz siebie), opłata za budynek siedziby firmy (raczej już zsumowane czynsz, podatek od nieruchomości oraz opłaty za media). Nie ma możliwości zejścia poniżej 0 — zakupy są niemożliwe, lecz opłaty okresowe mogą doprowadzić do takiej sytuacji, lecz wtedy:
+Liczone w dolarach ($) — jako liczba całkowita. Natychmiastowo ich ubywa, gdy gracz dokonuje zakupu przedmiotów, zatrudnia pracowników, itp. Otrzymuje się je natychmiastowo po skończeniu zlecenia czy sprzedaży przedmiotu. Istnieją też opłaty powtarzające się — pensje pracowników (gdy gracz zatrudni kogoś oprócz siebie), opłata za budynek siedziby firmy (raczej już zsumowane czynsz, podatek od nieruchomości oraz opłaty za media) — płacone na koniec każdego miesiąca. Do tych opłat wliczają się też koszty utrzymania fizycznych ulepszeń firmy, które gracz zakupił.
+Nie ma możliwości zejścia poniżej 0 — zakupy są niemożliwe, lecz opłaty okresowe mogą doprowadzić do takiej sytuacji, lecz wtedy:
 - Jeżeli to pierwsze zejście na minus funduszy — firma pożycza "osobiste środki szefa", np. 5000 waluty
 - Jeżeli to kolejny raz albo fundusze nie wystarczyły — ekran przegrania gry; gracz wczytuje poprzedni zapis lub rozpoczyna nową grę
 Opcjonalnie można wprowadzić system pożyczek — systematycznie odblokowywane przez proste obliczanie zdolności kredytowej (wartość firmy + poprzednie spłacone pożyczki). Każda pożyczka wprowadza comiesięczne opłaty celem jej spłacenia.
 
-⚠️ TODO: Czy rozwój firmy powinien wpływać na opłaty regularne? Np. Czy nowe obiekty zwiększają rachunek za elektryczność? Wtedy rachunek za prąd powinien być jawnie osobny od innych opłat za budynek.
-
 ⚠️ TODO: Ogólna jej wartość — jaka jest minimalna/średnia pensja, ile kosztuje budynek, czynsz oraz przedmioty czy pojazdy?
 
-⚠️ TODO: Jaki jest termin płatności? Czy jest to miesiąc jak zaproponowano dla ew. pożyczek czy też dzień lub tydzień?
 
 #### Poziom doświadczenia
 Nie można go stracić. Każdy kolejny poziom doświadczenia (LVL) zdobywa się po zdobyciu określonej liczby punktów doświadczenia (wyższa dla każdego kolejnego poziomu). Niektóre ulepszenia wymagają konkretnego LVL.
